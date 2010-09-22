@@ -1,5 +1,5 @@
 from class_based_views import TemplateView
-from class_based_views.djangojinja2 import select_telpate
+from class_based_views.djangojinja2 import select_template 
 
 class JinjaView(TemplateView):
     """
