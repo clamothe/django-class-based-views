@@ -5,3 +5,4 @@ from class_based_views.dates import (ArchiveView, YearView, MonthView,
                                      WeekView, DayView, TodayView,
                                      DateDetailView)
 from class_based_views.edit import CreateView, UpdateView, DeleteView
+from class_based_views.jinja import JinjaView 
